@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **QT, Embedded Linux, Sensor Fusion**
 
-- 💬 Ask me about **C,C++,C,Embedded Development,**
+- 💬 Ask me about **C, C++, C, Embedded Development**
 
 - 📫 How to reach me **fenercialperen@gmail.com**
 
